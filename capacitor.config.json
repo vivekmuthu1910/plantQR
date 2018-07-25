@@ -1,0 +1,6 @@
+{
+  "appId": "com.technoid.plantqr",
+  "appName": "PlantQR",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
